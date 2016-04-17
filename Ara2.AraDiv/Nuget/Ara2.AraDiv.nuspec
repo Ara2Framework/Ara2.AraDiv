@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Ara2.AraDiv</id>
+        <version>$version$</version>
+        <title>Ara2.AraDiv</title>
+        <authors>rafaelleonel</authors>
+        <owners>rafaelleonel</owners>
+        <licenseUrl>http://www.araframework.com.br/licence</licenseUrl>
+        <projectUrl>http://www.araframework.com.br</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Componente do AraFramework</description>
+        <copyright>Copyright ©  2016</copyright>
+        <language>pt-BR</language>
+        <dependencies>
+            <dependency id="Ara2" version="1.2.5946.20635" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\Ara2\Components\AraDiv\AraDiv.js" target="content\Ara2\Components\AraDiv\AraDiv.js" />
+        <file src="..\Ara2\Components\AraDiv\CREDITS.md" target="content\Ara2\Components\AraDiv\CREDITS.md" />
+        <file src="..\Ara2\Components\AraDiv\LICENSE.md" target="content\Ara2\Components\AraDiv\LICENSE.md" />
+        <file src="..\bin\Release\Ara2.AraDiv.dll" target="lib\net40\Ara2.AraDiv.dll" />
+    </files>
+</package>

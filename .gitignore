@@ -1,2 +1,5 @@
 /Ara2.AraDiv/obj
 /.vs/Ara2.AraDiv/v14/.suo
+/Ara2.AraDiv/bin
+/Ara2.AraDiv/Nuget/Ara2.AraDiv.*.nupkg
+*.user
